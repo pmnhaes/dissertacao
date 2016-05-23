@@ -40,8 +40,12 @@ Para gerar um .pdf a partir de um .tex utilizando o script, basta apenas executa
 
     $ latexmk -pdf nome_do_arquivo.tex
 
-.. [#] http://www.latex-project.org/
 
-.. [#] http://github.com/qualiagil
+# Referências
 
-.. [#] http://www.phys.psu.edu/~collins/software/latexmk-jcc/
+* [ppa:saiarcot895/myppa(for Ubuntu 14.04 and later versions)](https://launchpad.net/~saiarcot895/+archive/ubuntu/myppa)
+* [ppa:apt-fast/stable(out of date, for Ubuntu 11.04~13.10)](https://code.launchpad.net/~apt-fast/+archive/stable)
+
+* [Latex Project](http://www.latex-project.org/)
+* [Quali Agil](http://github.com/qualiagil)
+* [Latexmk](http://www.phys.psu.edu/~collins/software/latexmk-jcc/)
