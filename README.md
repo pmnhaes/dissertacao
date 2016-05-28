@@ -44,6 +44,14 @@ Para gerar um .pdf a partir de um .tex utilizando o script, basta apenas executa
 
     $ latexmk -pdf nome_do_arquivo.tex
 
+Para gerar indices para lista de siglas:
+
+    $ makeindex nome_do_arquivo.nlo -s nomencl.ist -o nome_do_arquivo.nls
+
+Para limpar arquivos gerados:
+
+    $ rm *.aux tcc.bbl tcc.blg tcc.fdb_latexmk tcc.lof tcc.log tcc.out tcc.toc tcc.glo tcc.ilg tcc.lot
+
 
 # Referências
 
