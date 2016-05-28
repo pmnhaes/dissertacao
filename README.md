@@ -5,9 +5,13 @@ Dissertação para Engenharia de Produção (UENF)
 Projeto criado para escrita da dissertação a ser apresentada como requisito obrigatório para obtenção de grau de Mestre em Engenharia de Produção na Universidade Estadual do Norte Fluminense Darcy Ribeiro - UENF.
 
 
-===========================
-Compilando os arquivos .tex
-===========================
+# Instalando pacotes no Debian/Ubuntu
+
+  $ sudo apt-get -y install texlive texlive-base texlive-latex-base texlive-lang-english texlive-lang-portuguese abntex texlive-extra-utils texlive-fonts-extra texlive-font-utils texlive-full texlive-latex-extra
+
+
+# Compilando os arquivos .tex
+
 
 Este trabalho de conclusão de curso foi feito utilizando LaTeX [#]_ , seguindo as principais orientações abnt-br. Mediante algumas modificações especiaficas para UENF.
 
