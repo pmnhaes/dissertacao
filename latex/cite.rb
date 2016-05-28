@@ -53,3 +53,7 @@ Segundo PMI (1998), o aprimoramento da competência de gerenciar projetos deve s
 
 --------------------------------------------------------------------------------
 **O conhecimento dos conceitos e características é completado com o aprofundamento do entendimento de algumas das funções administrativas da gerência de projetos, entre as quais o planejamento e o acompanhamento. Da mesma forma, outros temas devem ser relacionados com sua gerência, tais como percepção e ambigüidade, o conceito de paradigma, as técnicas de planejamento e revisão, software de apoio à gerência de projetos no ambiente da Internet, etc.
+
+--------------------------------------------------------------------------------
+
+Modelo de referencia para gerenciamento do processo de projeto de inovação para Polos de Inovação da EMBRAPII
