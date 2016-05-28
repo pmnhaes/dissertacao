@@ -1,7 +1,7 @@
 \documentclass[12pt, a4paper, tocpage=plain]{abnt} % Fonte tamanho 12, papel A4, páginas do sumário sem o p.<número da página>
 
 \usepackage[brazilian]{babel} % Gera datas e nomes em português com estilo brasileiro
-\usepackage{hyperref} % Permite a criação de hyperlink no documento, como os links usados na referência
+\usepackage[colorlinks=true,linkcolor=black]{hyperref} % cria hyperlink deixando da mesma cor do texto (sem quadrado vermelho)
 \usepackage[utf8]{inputenc} % Dá suporte para caracteres especiais como acentos e cedilha
 \usepackage[T1]{fontenc}
 \usepackage[alf]{abntcite} % Define o estilo de referência bibliográfica
@@ -37,8 +37,6 @@
   stringstyle=\ttfamily,
   showstringspaces=false,
   captionpos=b,
-  %language=Java, %deve ser definida na inclusão de cada trecho de código,
-  % pois podem existir linguagens diferentes em exemplos diferentes
   breaklines=true,
   breakautoindent=true,
   %estilos de comentário de uma e várias linhas
