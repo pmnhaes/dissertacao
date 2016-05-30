@@ -1,7 +1,7 @@
 \documentclass[12pt, a4paper, tocpage=plain]{abnt} % Fonte tamanho 12, papel A4, páginas do sumário sem o p.<número da página>
 
 \usepackage[brazilian]{babel} % Gera datas e nomes em português com estilo brasileiro
-\usepackage[colorlinks=true,linkcolor=black]{hyperref} % cria hyperlink deixando da mesma cor do texto (sem quadrado vermelho)
+\usepackage{hyperref} % cria hyperlink deixando da mesma cor do texto (sem quadrado vermelho)
 \usepackage[utf8]{inputenc} % Dá suporte para caracteres especiais como acentos e cedilha
 \usepackage[T1]{fontenc}
 \usepackage[alf]{abntcite} % Define o estilo de referência bibliográfica
@@ -20,6 +20,14 @@
 
 \usepackage{listings}
 \usepackage{color}
+
+
+\hypersetup{
+  colorlinks=true,          % false: boxed links; true: colored links
+  linkcolor=black,           % color of internal links
+  citecolor=black,           % color of links to bibliography
+  urlcolor=blue
+}
 
 \definecolor{dkgreen}{rgb}{0,0.6,0}
 \definecolor{gray}{rgb}{0.5,0.5,0.5}
@@ -55,6 +63,8 @@
 \renewcommand{\ABNTsectionfontsize}{\large} % Define o tamanho da fonte da \section
 \renewcommand{\ABNTsubsectionfontsize}{\large} % Define o tamanho da fonte do \subsection
 \renewcommand{\ABNTsubsubsectionfontsize}{\large} % Define o tamanho da fonte do \subsubsection
+\citeoption{abnt-repeated-author-omit=yes}
+\bibliographystyle{abnt-alf}
 \renewcommand{\ABNTbibliographyname}{REFERÊNCIAS BIBLIOGRÁFICAS} % Modifica o título gerado pelo \bibliographys
 
 \begin{document} % Começo do TCC
