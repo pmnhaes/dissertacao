@@ -1,5 +1,14 @@
 **Lindos
 
+INTRO
+
+Atualmente as organizações estão num ambiente cada vez mais competitivas e
+dinâmicas, com a necessidade de se manterem cada vez mais ágeis e organizadas. Elas
+procuram formalizar e aprimorar a condução dos seus trabalhos, incluindo
+planeamento, controlo e acompanhamento dos seus projetos de modo a ganharem
+vantagens competitivas (Giorgini, 2012).
+--------------------------------------------------------------------------------
+
 Kerzner, H. R. (2013). Project management: a systems approach to planning, scheduling, and controlling. John Wiley & Sons.
 KERZNER, H. Project management: a systems approach to planning, schedulling and controlling. New York : Van Nostrand Reinhold, 1995. (2003, 2006)
 
@@ -9,23 +18,18 @@ Aligning project goals with the overall business strategy.
 Profitability of the expected result.
 Technical and management capacity to undertake the project.
 
-The results of these case studies support the conclusions of Kerzner (2003):
+Kerzner (2003):
 - Even the simplest methodology, if accepted by the organization and used correctly, can increase your chances of success
 - The ultimate purpose of any project management system is to increase the likelihood that your organization will have a continuous stream of successfully managed projects. The best way to achieve this goal is with good project management methodologies that are based upon guidelines and forms rather than policies and procedures.
 
-Project scope: The project scope refers to objectives of a project and the budget of both time and cost that has been allocated to achieve these objectives (Kerzner, 2006). A good project scope document specifically defines what tasks are to be performed, the specific date when these tasks are due and the budget allocated for them. Therefore, quality, schedule and cost are three basic dimensions of the project scope (Kerzner, 2006). They are also three key factors in project risk management.
+Project management is the disciplined application of knowledge, skills, tools and techniques to project activities to meet the project requirements (Project Management Institute, 2013 and Turner and Müller, 2005).
 
-(I-2015 Honstein)
-**Kerzner (2013) indicates that a project is any series of activities and tasks that have a specific objective to be completed within certain specifications; have a defined start and end date; have funding limits; consume money, people and equipment; and are multifunctional. Project management is the disciplined application of knowledge, skills, tools and techniques to project activities to meet the project requirements (Project Management Institute, 2013 and Turner and Müller, 2005).
-
-**Segundo Kerzner (1995), os projetos possuem como característica essencial serem temporários e unicos, ou, em outras palavras, eles são finitos e regulares, visando ao desenvolvimento de um novo produto ou serviço. A administração desse esforço organizacional é denominada Gerência de Projetos. Assim como os projetos têm suas características que os diferenciam das operações, a Gerência de Projetos tem características próprias e requer uma competência adequada.
+Kerzner (2009, p.74) define a metodologia de gestão de projetos como um processo repetitivo que pode ser usado em cada projeto com o objetivo de alcançar a excelência ou maturidade da gestão de projetos.
 
 --------------------------------------------------------------------------------
 
 Turner, J. R. (2014). The handbook of project-based management (Vol. 92). McGraw-hill.
 (2009 tambem)
-
- The definitions of a project imply an end date; at that time the project manager is likely to be released or move on to another project. Also, the reward structure in many organizations encourages the project manager to finish the project on cost and time and little else (Turner, 2014).
 
 suggest that practitioners recognise projects as a structured way to implement business changes, an opinion also shared by academics e.g. Buttrick (1997), Kerzner (2009) and Turner (2009). Project success is a vital component of business success (Price Waterhouse Coopers, 2007) and the global economy. Although projects in an organisational portfolio can address different objectives (Gray and Larson, 2006, Jenner, 2010, Kendall and Rollins, 2003 and Levine, 2005), they are mainly undertaken to support the execution of business strategies (Buttrick, 1997). Therefore, organisations need to ensure the success of their projects in order to succeed in executing their strategy and in turning their vision into reality.
 
@@ -37,20 +41,19 @@ We take a contingency theory perspective and suggest that the association betwee
 --------------------------------------------------------------------------------
 Meredith & Mantel. (2012). Project management. A managerial approach, (3a edição), página 8.
 
-Meredith e Mantel (2012, p.8) definiram projeto como uma tarefa específica e finita a ser realizada, seja de grande ou pequena escala, com maior ou menor prazo de execução e dentro de um orçamento estipulado.
-
-
-Field & Keller. (2005). Project management
-
-Segundo Field e Keller (2005, p.2) projeto é um conjunto de pessoas e outros recursos necessários reunidos temporariamente para atingir um objetivo específico, normalmente com um orçamento fixo, com um período de tempo fixo e uma qualidade desejada. Os Projetos estão usualmente associados com os novos produtos ou procedimentos que estão a ser feitos, ou ainda com procedimentos ou produtos conhecidos que estão a ser alterados.
+A gestão de projetos é um processo disciplinado e tem por propósito geral garantir que os objetivos definidos para um projeto sejam plenamente atingidos, respeitando os custos, o prazo e o desempenho requerido e isto se realiza através do envolvimento de pessoas em atividades de organização, planejamento e controle das atividades e dos recursos alocados ao projeto (MARTIN, 1976; MEREDITH e MANTEL JR., 1985; KERZNER, 2006; DINSMORE e CABANIS-BREWIN, 2009). Para tanto, são empregados conhecimentos, habilidades, técnicas e ferramentas (PMI, 2013a).
+Segundo Meredith e Mantel Jr. (1985), a avaliação e seleção de projetos é o processo de avaliar projetos individuais ou grupos de projetos e então escolher destes quais serão implementados de forma que os objetivos estratégicos da organização sejam atingidos.
 
 --------------------------------------------------------------------------------
 PROJECT MANAGEMENT INSTITUTE (PMI): a guide to the project management body of knowledge. Upper Darby : PMI, 1998.
-
+\cite{pmiguide2001}
 
 Segundo PMI (1998), o aprimoramento da competência de gerenciar projetos deve ser baseado no seu perfeito conhecimento de conceitos e características próprias e também nas particularidades e fatores críticos de sucesso da Gerência de Projetos. Os projetos cooperativos aumentam a importância de algumas de suas características, bem como de seus fatores de sucesso.
 
+--------------------------------------------------------------------------------
+J. Benitez-Amando, F. Llorens-Montes, M. Perez-Arostegui. Information technology-enabled intrapreneurship culture and firm performance. Ind. Manag. Data Syst., 110 (4) (2010), pp. 550–566
 
+It is more common for research to examine the relationship between IT and organisational performance. However, this “ … literature has traditionally shown contradictory results regarding the impact of the IT artefact on firm performance” (Benitez-Amando et al., 2010, p. 551)
 --------------------------------------------------------------------------------
 **O conhecimento dos conceitos e características é completado com o aprofundamento do entendimento de algumas das funções administrativas da gerência de projetos, entre as quais o planejamento e o acompanhamento. Da mesma forma, outros temas devem ser relacionados com sua gerência, tais como percepção e ambigüidade, o conceito de paradigma, as técnicas de planejamento e revisão, software de apoio à gerência de projetos no ambiente da Internet, etc.
 
