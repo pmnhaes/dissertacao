@@ -1,5 +1,10 @@
 **Lindos
 
+Modelo de referencia para gerenciamento do processo de projeto de inovação para Polos de Inovação da EMBRAPII
+--------------------------------------------------------------------------------
+lundvall innovation
+
+--------------------------------------------------------------------------------
 INTRO
 
 Atualmente as organizações estão num ambiente cada vez mais competitivas e
@@ -7,25 +12,39 @@ dinâmicas, com a necessidade de se manterem cada vez mais ágeis e organizadas.
 procuram formalizar e aprimorar a condução dos seus trabalhos, incluindo
 planeamento, controlo e acompanhamento dos seus projetos de modo a ganharem
 vantagens competitivas (Giorgini, 2012).
+
+ A questão atual
+para muitas organizações, incluindo as instituições de P&D, não é mais “se vale a pena
+implantar um sistema de gestão de projetos na organização, mas sim “como implantar ou
+aperfeiçoar o processo de gerenciamento de seus projetos, de uma forma segura e
+confiável” (Prado, 2000, p.15), que proporcione a sobrevivência e a competitividade da
+organização.
+
+
+No âmbito do SEB, Geus (2010) afirma que o escritório de projeto tem como
+principal atribuição garantir a qualidade dos projetos do Programa de P&D da
+ANEEL. Os projetos estratégicos de P&D tendem a apresentar forte característica
+multidisciplinar, dessa forma, o gerente de projeto deve ter uma visão abrangente,
+integrar várias competências e experiência para conduzir projetos multidisciplinares.
+Segundo esse autor, a manutenção de um escritório de projetos de P&D, com um
+corpo de profissionais especialistas, que acompanhem diretamente os projetos em
+parceria com universidades e institutos de pesquisa, em período integral, é
+estratégica e um diferencial para as empresas do setor elétrico, pois possibilita a
+internalização dos resultados e conhecimentos gerados (GEUS, 2010).
+
+http://repositorio.utfpr.edu.br/jspui/bitstream/1/195/1/CT_PPGTE_M_Neves%2c%20Natalino%20das_2011.pdf
+
+GEUS, Klaus de. Mentes criativas, projetos inovadores: a arte de empreender
+P&D e inovação. São Paulo: Musa Editora; Paraná: Universidade Tuiuti do Paraná,
+2010.
 --------------------------------------------------------------------------------
+J. Benitez-Amando, F. Llorens-Montes, M. Perez-Arostegui. Information technology-enabled intrapreneurship culture and firm performance. Ind. Manag. Data Syst., 110 (4) (2010), pp. 550–566
 
-Kerzner, H. R. (2013). Project management: a systems approach to planning, scheduling, and controlling. John Wiley & Sons.
-KERZNER, H. Project management: a systems approach to planning, schedulling and controlling. New York : Van Nostrand Reinhold, 1995. (2003, 2006)
+It is more common for research to examine the relationship between IT and organisational performance. However, this “ … literature has traditionally shown contradictory results regarding the impact of the IT artefact on firm performance” (Benitez-Amando et al., 2010, p. 551)
 
-Nevertheless, the number of phases considered depends on the nature of the project and can include from 4 up to 8 or more phases (Kerzner, 2003).
-The first phase considered is the management of the potential projects that can be carried out, which requires an exhaustive work to select the most relevant ones. Many factors should take into account factors when selecting the right project (Heldeman, 2002, Kerzner, 2003 and McGhee and McAliney, 2007), but most of them can be summarised in the following:
-Aligning project goals with the overall business strategy.
-Profitability of the expected result.
-Technical and management capacity to undertake the project.
 
-Kerzner (2003):
-- Even the simplest methodology, if accepted by the organization and used correctly, can increase your chances of success
-- The ultimate purpose of any project management system is to increase the likelihood that your organization will have a continuous stream of successfully managed projects. The best way to achieve this goal is with good project management methodologies that are based upon guidelines and forms rather than policies and procedures.
-
-Project management is the disciplined application of knowledge, skills, tools and techniques to project activities to meet the project requirements (Project Management Institute, 2013 and Turner and Müller, 2005).
-
-Kerzner (2009, p.74) define a metodologia de gestão de projetos como um processo repetitivo que pode ser usado em cada projeto com o objetivo de alcançar a excelência ou maturidade da gestão de projetos.
-
+--------------------------------------------------------------------------------
+PROJETO E GESTÃO DE PROJETO
 --------------------------------------------------------------------------------
 
 Turner, J. R. (2014). The handbook of project-based management (Vol. 92). McGraw-hill.
@@ -38,25 +57,86 @@ Turner (2014) has addressed this issue by distinguishing between different stake
 Most recently Turner (2009b) differentiated levels of success by distinguishing between project output, project outcome, and impact. He indirectly included a time dimension, where output is assessed at the end of project, whereas outcome is assessed a few months after project end, and impact a few years later by different stakeholders.
 We take a contingency theory perspective and suggest that the association between relational norms and project success is impacted by the project’s context. The closest context is the project’s governance, which is the system and approach for steering the project, often set by a steering group, the company culture, possibly also a project management office (PMO) or similar governance institutions (Müller, 2009; Turner, 2009a).
 
---------------------------------------------------------------------------------
-Meredith & Mantel. (2012). Project management. A managerial approach, (3a edição), página 8.
-
-A gestão de projetos é um processo disciplinado e tem por propósito geral garantir que os objetivos definidos para um projeto sejam plenamente atingidos, respeitando os custos, o prazo e o desempenho requerido e isto se realiza através do envolvimento de pessoas em atividades de organização, planejamento e controle das atividades e dos recursos alocados ao projeto (MARTIN, 1976; MEREDITH e MANTEL JR., 1985; KERZNER, 2006; DINSMORE e CABANIS-BREWIN, 2009). Para tanto, são empregados conhecimentos, habilidades, técnicas e ferramentas (PMI, 2013a).
-Segundo Meredith e Mantel Jr. (1985), a avaliação e seleção de projetos é o processo de avaliar projetos individuais ou grupos de projetos e então escolher destes quais serão implementados de forma que os objetivos estratégicos da organização sejam atingidos.
 
 --------------------------------------------------------------------------------
-PROJECT MANAGEMENT INSTITUTE (PMI): a guide to the project management body of knowledge. Upper Darby : PMI, 1998.
-\cite{pmiguide2001}
+ESCRITORIO DE PROJETOS
+--------------------------------------------------------------------------------
+Um dos aspectos organizacionais de gerenciamento de projetos que vem
+recebendo muita atenção ultimamente é o Escritório de Projetos, ou como também é
+conhecido do termo em inglês: Project Office (PRADO, 2000).
 
-Segundo PMI (1998), o aprimoramento da competência de gerenciar projetos deve ser baseado no seu perfeito conhecimento de conceitos e características próprias e também nas particularidades e fatores críticos de sucesso da Gerência de Projetos. Os projetos cooperativos aumentam a importância de algumas de suas características, bem como de seus fatores de sucesso.
+Em alguns segmentos da indústria, como por exemplo, informática, o Escritório
+de Projetos tem crescido enormemente, pois simplifica, facilita e otimiza a Gestão de
+Projetos a um custo muito baixo. Ele tem se mostrado muito útil em organizações que
+gerenciam muitos projetos simultaneamente, aliviando o trabalho dos gerentes dos
+gerentes de projetos ao compartilhar a execução das tarefas de planejamento e
+acompanhamento. Assim os gerentes de projetos dispõem de mais tempo para “fazer as
+coisas acontecerem”, acompanhando o desenvolvimento do produto, interagindo com
+clientes, liderando suas equipes, etc. (PRADO, 2000).
+
+Mas enfim, o que é o Escritório de Projetos (PMO – Project Management
+Office)? Segundo DINSMORE (2003, p. 7) o PMO “apresenta como objetivo básico
+orientar e dar suporte aos gerentes de projetos permitindo à empresa desenvolver seus
+projetos da forma mais eficiente e eficaz possível”.
+
+http://pg.utfpr.edu.br/dirppg/ppgep/ebook/2004/19.pdf
+--------------------------------------------------------------------------------
+“De forma sucinta, o escritório de projetos é um pequeno grupo de pessoas que tem
+relacionamento direto com todos os projetos da empresa, seja prestando consultoria e
+treinamento, seja efetuando auditoria e acompanhamento de desempenho dos projetos”
+(Prado, 2000, p.89).
+
+http://www.pg.utfpr.edu.br/ppgep/Ebook/ARTIGOS/74.pdf
 
 --------------------------------------------------------------------------------
-J. Benitez-Amando, F. Llorens-Montes, M. Perez-Arostegui. Information technology-enabled intrapreneurship culture and firm performance. Ind. Manag. Data Syst., 110 (4) (2010), pp. 550–566
+O comitê de avaliação de projetos funciona como um sistema de gestão
+integrado, com o objetivo de selecionar e priorizar um conjunto de projetos que
+estejam alinhados com os objetivos estratégicos da organização, bem como realizar
+a revisão e o monitoramento e controle do portfólio de projetos (PRADO, 2000)
 
-It is more common for research to examine the relationship between IT and organisational performance. However, this “ … literature has traditionally shown contradictory results regarding the impact of the IT artefact on firm performance” (Benitez-Amando et al., 2010, p. 551)
+http://repositorio.utfpr.edu.br/jspui/bitstream/1/195/1/CT_PPGTE_M_Neves%2c%20Natalino%20das_2011.pdf
+
+Para
+realizar a gestão do portfólio de projetos são necessárias algumas ações ou
+atividades. Neiva (2006, p.3) destaca quatro delas:
+1. Inventário - levantamento completo de todos os projetos e programas
+candidatos a serem inclusos no portfólio de projetos;
+2. Análise - análise do inventário sob a ótica de critérios previamente
+selecionados. As perspectivas podem ser: potencial de realização,
+alinhamento estratégico, equilíbrio, valor e urgência;
+3. Otimização – busca da maximização dos benefícios do portfólio ao revisar
+continuamente os critérios de análise e os produtos;
+56
+4. Mobilização - tomada de decisão para início. Alteração ou cancelamento
+de projetos. Ocorre nas fases de alocação de recursos, medição e avaliação
+dos esforços de cada projeto e/ou programa.
+
+
+. Dinsmore (2010) afirma que o escritório de projeto
+tem como objetivo principal prestar orientação e suporte às organizações no
+desenvolvimento e gerenciamento de projetos da forma mais eficiente e eficaz
+possível. As principais atividades são: padronização de metodologia, avaliação de
+recursos, planejamento, gerenciamento, revisão e análise de projetos.
+
 --------------------------------------------------------------------------------
-**O conhecimento dos conceitos e características é completado com o aprofundamento do entendimento de algumas das funções administrativas da gerência de projetos, entre as quais o planejamento e o acompanhamento. Da mesma forma, outros temas devem ser relacionados com sua gerência, tais como percepção e ambigüidade, o conceito de paradigma, as técnicas de planejamento e revisão, software de apoio à gerência de projetos no ambiente da Internet, etc.
 
---------------------------------------------------------------------------------
 
-Modelo de referencia para gerenciamento do processo de projeto de inovação para Polos de Inovação da EMBRAPII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+METODOLOGIA
+file:///home/pmnhaes/Downloads/Tese_Renato_Moraes_Junho2004.pdf
+
+pagina 79 (ou 65)
