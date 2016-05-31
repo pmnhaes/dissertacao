@@ -1,0 +1,34 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{CT\&I}]\begingroup Ciência, Tecnologia e Inovação\nomeqref {1.0}
+		\nompageref{8}
+  \item [{GAP}]\begingroup Gestão Ágil de Projetos\nomeqref {1.0}
+		\nompageref{8}
+  \item [{GP}]\begingroup Gestão de Projetos\nomeqref {1.0}
+		\nompageref{8}
+  \item [{GPP}]\begingroup Gestão de Portfólio de Projetos\nomeqref {2.0}
+		\nompageref{13}
+  \item [{P\&D}]\begingroup Pesquisa e Desenvolvimento\nomeqref {1.0}
+		\nompageref{8}
+  \item [{P\&DI}]\begingroup Pesquisa, Desenvolvimento e Inovação\nomeqref {1.0}
+		\nompageref{8}
+  \item [{PI}]\begingroup Polo de Inovação\nomeqref {1.0}
+		\nompageref{10}
+  \item [{PICG}]\begingroup Polo de Inovação Campos dos Goytacazes\nomeqref {1.0}
+		\nompageref{10}
+  \item [{PMBOK}]\begingroup \textit{Project Management Body of Knowledge}\nomeqref {2.0}
+		\nompageref{14}
+  \item [{PMI}]\begingroup Instituto de Gerenciamento de Projetos (\textit{Project Management Institute})\nomeqref {2.0}
+		\nompageref{14}
+  \item [{PMO}]\begingroup Escritorio de Gestão de Projetos (\textit{Project Management Office})\nomeqref {2.0}
+		\nompageref{14}
+  \item [{SI}]\begingroup Sistemas de Inovação\nomeqref {1.0}
+		\nompageref{7}
+  \item [{SNI}]\begingroup Sistema Nacional de Inovação\nomeqref {1.0}
+		\nompageref{8}
+  \item [{UEG}]\begingroup Universidade-Empresa-Governo\nomeqref {1.0}
+		\nompageref{8}
+
+\end{thenomenclature}

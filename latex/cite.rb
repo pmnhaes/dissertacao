@@ -59,36 +59,9 @@ We take a contingency theory perspective and suggest that the association betwee
 
 
 --------------------------------------------------------------------------------
-ESCRITORIO DE PROJETOS
+portfolio
 --------------------------------------------------------------------------------
-Um dos aspectos organizacionais de gerenciamento de projetos que vem
-recebendo muita atenção ultimamente é o Escritório de Projetos, ou como também é
-conhecido do termo em inglês: Project Office (PRADO, 2000).
 
-Em alguns segmentos da indústria, como por exemplo, informática, o Escritório
-de Projetos tem crescido enormemente, pois simplifica, facilita e otimiza a Gestão de
-Projetos a um custo muito baixo. Ele tem se mostrado muito útil em organizações que
-gerenciam muitos projetos simultaneamente, aliviando o trabalho dos gerentes dos
-gerentes de projetos ao compartilhar a execução das tarefas de planejamento e
-acompanhamento. Assim os gerentes de projetos dispõem de mais tempo para “fazer as
-coisas acontecerem”, acompanhando o desenvolvimento do produto, interagindo com
-clientes, liderando suas equipes, etc. (PRADO, 2000).
-
-Mas enfim, o que é o Escritório de Projetos (PMO – Project Management
-Office)? Segundo DINSMORE (2003, p. 7) o PMO “apresenta como objetivo básico
-orientar e dar suporte aos gerentes de projetos permitindo à empresa desenvolver seus
-projetos da forma mais eficiente e eficaz possível”.
-
-http://pg.utfpr.edu.br/dirppg/ppgep/ebook/2004/19.pdf
---------------------------------------------------------------------------------
-“De forma sucinta, o escritório de projetos é um pequeno grupo de pessoas que tem
-relacionamento direto com todos os projetos da empresa, seja prestando consultoria e
-treinamento, seja efetuando auditoria e acompanhamento de desempenho dos projetos”
-(Prado, 2000, p.89).
-
-http://www.pg.utfpr.edu.br/ppgep/Ebook/ARTIGOS/74.pdf
-
---------------------------------------------------------------------------------
 O comitê de avaliação de projetos funciona como um sistema de gestão
 integrado, com o objetivo de selecionar e priorizar um conjunto de projetos que
 estejam alinhados com os objetivos estratégicos da organização, bem como realizar
@@ -110,17 +83,6 @@ continuamente os critérios de análise e os produtos;
 4. Mobilização - tomada de decisão para início. Alteração ou cancelamento
 de projetos. Ocorre nas fases de alocação de recursos, medição e avaliação
 dos esforços de cada projeto e/ou programa.
-
-
-. Dinsmore (2010) afirma que o escritório de projeto
-tem como objetivo principal prestar orientação e suporte às organizações no
-desenvolvimento e gerenciamento de projetos da forma mais eficiente e eficaz
-possível. As principais atividades são: padronização de metodologia, avaliação de
-recursos, planejamento, gerenciamento, revisão e análise de projetos.
-
---------------------------------------------------------------------------------
-
-
 
 
 
