@@ -2,7 +2,6 @@
 
 Modelo de referencia para gerenciamento do processo de projeto de inovação para Polos de Inovação da EMBRAPII
 --------------------------------------------------------------------------------
-lundvall innovation
 
 --------------------------------------------------------------------------------
 INTRO
