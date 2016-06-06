@@ -6,6 +6,8 @@
 \usepackage[T1]{fontenc}
 \usepackage[alf]{abntcite} % Define o estilo de referência bibliográfica
 \usepackage{graphicx} % Permite a utilização de imagens no documento
+\usepackage[table,xcdraw]{xcolor} % permite colorir tabela
+\usepackage{longtable}
 \usepackage[small]{caption} % Define as legendas das figuras com fontes menores do que o texto
 \usepackage{pslatex} % Define que o formato da letra será Times New Roman
 \usepackage{epigraph} % Permite a criação de epígrafes
@@ -15,7 +17,6 @@
 
 \setcounter{secnumdepth}{3} % Até três subsubsections numeradas
 \setcounter{tocdepth}{3} % Até trẽs subsubsections numeradas
-
 \setlength{\parindent}{1.25cm} % Define o recuo da primeira linha dos parágrafos para 1.25 cm
 
 \usepackage{listings}
@@ -37,9 +38,10 @@
 \bibliographystyle{abnt-alf}
 \renewcommand{\ABNTbibliographyname}{REFERÊNCIAS BIBLIOGRÁFICAS} % Modifica o título gerado pelo \bibliographys
 
+
 \begin{document} % Começo do TCC
 \include{capa} % Cria a capa
-% \newpage\null\thispagestyle{empty}\newpage % pagina em branco
+\newpage\null\thispagestyle{empty}\newpage % pagina em branco
 \include{rosto} % Cria a folha de rosto
 \include{aprovacao} % Cria a folha de aprovação
 % \include{dedicatoria}  % Cria a folha de dedicatória
@@ -68,4 +70,6 @@
 \include{cap5}
 \include{cap6}
 \bibliography{referencia} % Gera as referências bibliográficas
+\include{apendices}
+\include{anexos}
 \end{document} % Fim do TCC
