@@ -19,6 +19,11 @@ aperfeiçoar o processo de gerenciamento de seus projetos, de uma forma segura e
 confiável” (Prado, 2000, p.15), que proporcione a sobrevivência e a competitividade da
 organização.
 
+Utilizando a classificação proposta por Gil (2002, p.41), a presente pesquisa pode ser caracterizada quanto à abordagem do problema, como qualitativa e quanto aos seus objetivos, como descritiva.
+
+Por sua vez, quanto aos procedimentos técnicos utilizados para obtenção dos dados, segundo a classificação de Lakatos e Marconi (2003, p.174), trata-se de pesquisa bibliográfica (ou de fontes secundárias) e pesquisa de campo (ou de fontes primárias).
+
+
 
 No âmbito do SEB, Geus (2010) afirma que o escritório de projeto tem como
 principal atribuição garantir a qualidade dos projetos do Programa de P&D da
@@ -36,68 +41,52 @@ http://repositorio.utfpr.edu.br/jspui/bitstream/1/195/1/CT_PPGTE_M_Neves%2c%20Na
 GEUS, Klaus de. Mentes criativas, projetos inovadores: a arte de empreender
 P&D e inovação. São Paulo: Musa Editora; Paraná: Universidade Tuiuti do Paraná,
 2010.
---------------------------------------------------------------------------------
-J. Benitez-Amando, F. Llorens-Montes, M. Perez-Arostegui. Information technology-enabled intrapreneurship culture and firm performance. Ind. Manag. Data Syst., 110 (4) (2010), pp. 550–566
 
-It is more common for research to examine the relationship between IT and organisational performance. However, this “ … literature has traditionally shown contradictory results regarding the impact of the IT artefact on firm performance” (Benitez-Amando et al., 2010, p. 551)
-
-
---------------------------------------------------------------------------------
-PROJETO E GESTÃO DE PROJETO
---------------------------------------------------------------------------------
-
-Turner, J. R. (2014). The handbook of project-based management (Vol. 92). McGraw-hill.
-(2009 tambem)
-
-suggest that practitioners recognise projects as a structured way to implement business changes, an opinion also shared by academics e.g. Buttrick (1997), Kerzner (2009) and Turner (2009). Project success is a vital component of business success (Price Waterhouse Coopers, 2007) and the global economy. Although projects in an organisational portfolio can address different objectives (Gray and Larson, 2006, Jenner, 2010, Kendall and Rollins, 2003 and Levine, 2005), they are mainly undertaken to support the execution of business strategies (Buttrick, 1997). Therefore, organisations need to ensure the success of their projects in order to succeed in executing their strategy and in turning their vision into reality.
-
-Turner (2014) has addressed this issue by distinguishing between different stakeholders in a project (investor, sponsor, customer, operators, users, project team, suppliers, service providers, consumers), all of whom have their own specific and different success criteria for measuring achievements at different points of time within the system lifecycle, i.e. measuring: 1) project output at the end of the project, 2) project outcomes in the short-term (months after the project), and 3) project outcomes in the long-term (years after the project).
-
-Most recently Turner (2009b) differentiated levels of success by distinguishing between project output, project outcome, and impact. He indirectly included a time dimension, where output is assessed at the end of project, whereas outcome is assessed a few months after project end, and impact a few years later by different stakeholders.
-We take a contingency theory perspective and suggest that the association between relational norms and project success is impacted by the project’s context. The closest context is the project’s governance, which is the system and approach for steering the project, often set by a steering group, the company culture, possibly also a project management office (PMO) or similar governance institutions (Müller, 2009; Turner, 2009a).
-
+ “a pesquisa bibliográfica não é mera repetição
+do que já foi dito ou escrito sobre certo assunto, mas propicia o exame de um tema sob
+novo enfoque ou abordagem, chegando a conclusões inovadoras” (LAKATOS, 2010, p.
+166)
 
 --------------------------------------------------------------------------------
 portfolio
 --------------------------------------------------------------------------------
-
-O comitê de avaliação de projetos funciona como um sistema de gestão
-integrado, com o objetivo de selecionar e priorizar um conjunto de projetos que
-estejam alinhados com os objetivos estratégicos da organização, bem como realizar
-a revisão e o monitoramento e controle do portfólio de projetos (PRADO, 2000)
-
 http://repositorio.utfpr.edu.br/jspui/bitstream/1/195/1/CT_PPGTE_M_Neves%2c%20Natalino%20das_2011.pdf
 
-Para
-realizar a gestão do portfólio de projetos são necessárias algumas ações ou
-atividades. Neiva (2006, p.3) destaca quatro delas:
-1. Inventário - levantamento completo de todos os projetos e programas
-candidatos a serem inclusos no portfólio de projetos;
-2. Análise - análise do inventário sob a ótica de critérios previamente
-selecionados. As perspectivas podem ser: potencial de realização,
-alinhamento estratégico, equilíbrio, valor e urgência;
-3. Otimização – busca da maximização dos benefícios do portfólio ao revisar
-continuamente os critérios de análise e os produtos;
-56
-4. Mobilização - tomada de decisão para início. Alteração ou cancelamento
-de projetos. Ocorre nas fases de alocação de recursos, medição e avaliação
-dos esforços de cada projeto e/ou programa.
+Para realizar a gestão do portfólio de projetos são necessárias algumas ações ou atividades. Neiva (2006, p.3) destaca quatro delas:
+1. Inventário - levantamento completo de todos os projetos e programas candidatos a serem inclusos no portfólio de projetos;
+2. Análise - análise do inventário sob a ótica de critérios previamente selecionados. As perspectivas podem ser: potencial de realização, alinhamento estratégico, equilíbrio, valor e urgência;
+3. Otimização – busca da maximização dos benefícios do portfólio ao revisar continuamente os critérios de análise e os produtos;
+4. Mobilização - tomada de decisão para início. Alteração ou cancelamento de projetos. Ocorre nas fases de alocação de recursos, medição e avaliação dos esforços de cada projeto e/ou programa.
+
+--------------------------------------------------------------------------------
+METODOLOGIA (qualitativa e exploratória)
+--------------------------------------------------------------------------------
+#ARTIGO OU INTRO
+Utilizando a classificação proposta por Gil (2002, p.41), a presente pesquisa pode ser caracterizada quanto à abordagem do problema, como qualitativa e quanto aos seus objetivos, como descritiva. Por sua vez, quanto aos procedimentos técnicos utilizados para obtenção dos dados, segundo a classificação de Lakatos e Marconi (2003, p.174), trata-se de pesquisa bibliográfica (ou de fontes secundárias) e pesquisa de campo (ou de fontes primárias).
+O levantamento bibliográfico para realização da primeira fase do presente trabalho deu-se por meio de consulta às seguintes bases de dados: DEDALUS (Banco de Dados Bibliográficos da USP), Google Acadêmico, Web of Science, Science Direct, Scopus, EBSCO, SCIELO (Scientific Electronic Library Online), REDALYC (Red de Revistas Cientificas de América Latina y el Caribe, España y Portugal).
+Para tanto, foram utilizados os seguintes termos de busca, em português e os correspondentes em inglês e espanhol: gestão da inovação e métodos de gestão da inovação. Na execução dessa etapa inicial, constatou-se a existência de muitas publicações com referência expressa ao termo “gestão da inovação” mas que não tinham conteúdo pertinente ao objeto do presente trabalho, tendo sido pré-selecionadas trinta publicações dentre livros, artigos científicos, teses e dissertações.
+--------------------------------------------------------------------------------
+Em suma, a metodologia resultou da análise e reflexão da teoria face às questões de investigação propostas, visando a compreensão das intervenções de enfermagem junto do doente com ferida maligna.
+--------------------------------------------------------------------------------
+Este trabalho tem natureza exploratória, pois executa levantamentos bibliográficos, a fim de definir o problema com precisão. Também realiza a busca de experiências práticas, através da aplicação de questionários a profissionais da área e traz o aumento do conhecimento sobre o assunto sucesso em Gerenciamento de Projetos.
+
+O fechamento é dado com a avaliação do retorno da amostra da população-alvo, a qual está diretamente em contato com o tema da pesquisa, o que configura a concepção de pesquisa conclusiva, descritiva, transversal e simples.
+--------------------------------------------------------------------------------
+Este estudo de caso foi realizado em uma organização de grande porte, fundada na década de 70, no estado de Minas Gerais, contando hoje com 6 unidades de negócio. A unidade analisada neste trabalho está situada na região metropolitana de Curitiba, Paraná, onde atua como fornecedora de sistemas automotivos e conjuntos soldados para as maiores montadoras do Brasil.
+
+--------------------------------------------------------------------------------
 
 
+--------------------------------------------------------------------------------
 
 
+--------------------------------------------------------------------------------
 
 
+--------------------------------------------------------------------------------
 
 
+--------------------------------------------------------------------------------
 
 
-
-
-
-
-
-METODOLOGIA
-file:///home/pmnhaes/Downloads/Tese_Renato_Moraes_Junho2004.pdf
-
-pagina 79 (ou 65)
+--------------------------------------------------------------------------------
