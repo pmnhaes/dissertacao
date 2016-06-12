@@ -6436,9 +6436,9 @@ sub Run {
 #    message.  This is provided to allow program names defined in the
 #    configuration to flag themselves as unimplemented.
 # Return value is a list (pid, exitcode):
-#   If process is spawned sucessfully, and I know the PID,
+#   If process is spawned successfully, and I know the PID,
 #       return (pid, 0),
-#   else if process is spawned sucessfully, but I do not know the PID,
+#   else if process is spawned successfully, but I do not know the PID,
 #       return (0, 0),
 #   else if process is run, 
 #       return (0, exitcode of process)
@@ -6493,9 +6493,9 @@ sub Run_Detached {
 #    mode.  (The simplest method, system ("program arguments &"), makes the 
 #    child process respond to the ctrl/C.)
 # Return value is a list (pid, exitcode):
-#   If process is spawned sucessfully, and I know the PID,
+#   If process is spawned successfully, and I know the PID,
 #       return (pid, 0),
-#   else if process is spawned sucessfully, but I do not know the PID,
+#   else if process is spawned successfully, but I do not know the PID,
 #       return (0, 0),
 #   else if I fail to spawn a process
 #       return (0, 1)
