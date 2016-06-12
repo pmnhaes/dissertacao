@@ -11,7 +11,7 @@ Este trabalho de conclusão de curso foi feito utilizando LaTeX [#]_ , seguindo 
 
 # Pré requisitos
 
-Para compilar os arquivos .tex é necessário a instalação do pacote *abntex*. Para isso, basta executar o seguinte comando em um terminal:
+Para compilar os arquivos .tex é necessário a instalação do pacote *abntex*. Para isso, basta executar o seguinte commando em um terminal:
 
   $ sudo apt-get install abntex
 
