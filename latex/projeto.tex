@@ -14,6 +14,10 @@
 \usepackage[alf]{abntcite} % Estilo de referência bibliográfica
 \usepackage{graphicx} % Permite a utilização de imagens no documento
 \usepackage[table,xcdraw]{xcolor} % Permite colorir tabela
+\usepackage{rotating} % Possibilita tabela horizontais
+% \usepackage{quadros} % Permite utilização de quadros
+\usepackage{trivfloat}
+\trivfloat{quadro}
 \usepackage{longtable} % Permite utilizar tabelas grandes que ocupam mais paginas
 \usepackage[small]{caption} % Define legendas das figuras com fontes menores
 \usepackage{pslatex} % Define que o formato da letra será Times New Roman
@@ -55,6 +59,9 @@
 \listoffigures % Gera o índice de figuras
 \renewcommand{\listtablename}{LISTA DE TABELAS} % Nome para lista de tabelas
 \listoftables % Gera o índice de tabelas
+\renewcommand{\listquadroname}{LISTA DE QUADROS}
+\phantomsection
+\listofquadros % Gera índice de quadros
 \makenomenclature % cria lista de siglas (makeindex tcc.nlo -s nomencl.ist -o tcc.nls)
 \renewcommand{\nomname}{LISTA DE SIGLAS} % Nome para lista de siglas
 \printnomenclature % Gera o índice de siglas
