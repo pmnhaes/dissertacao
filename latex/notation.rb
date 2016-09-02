@@ -14,10 +14,8 @@ REFAZER
 
 METODOLOGIA
 - referencial bibliografico
- - Conceito de Maturidade
- - CMMI
- - MPS-BR ???
-
+ - CMMI ???
+ - ISO 16290:2013 1 .
 ESTUDO DE CASO
  - PICG
  - EMBRAPII
@@ -30,67 +28,49 @@ ANOTAÇÕES:
 
 --------------------------------------------------------------------------------
 
-PMI, PROJECT MANAGEMENT INSTITUTE. A Guide to the project management body of
-knowledge (PMBoK Guide). Forth Edition. Project Management Institute, Four Campus
-Boulevard, Newtown Square, 2008.
-
-PMI, PROJECT MANAGEMENT INSTITUTE. PMI today June 2009. Project Management
-Institute, Four Campus Boulevard, Newtown Square, 2009.
-
-PROJECT MANAGEMENT INSTITUTE. Organizational Project Management
-Maturity Model (OPM3) Knowledge Foundation. Pennsylvania: Project Management
-Institute. Inc, 2003.
-
-PROJECT MANAGEMENT INSTITUTE. Project Management Body of Knowledge. 1.
-ed. Pennsylvania: Project Management Institute. Inc, 1996.
-
-PROJECT MANAGEMENT INSTITUTE. Project Management Body of Knowledge. 2.
-ed. Pennsylvania: Project Management Institute. Inc, 2000.
-
-PROJECT MANAGEMENT INSTITUTE. Project Management Body of Knowledge. 3.
-ed. Pennsylvania: Project Management Institute. Inc, 2004.
-
-PROJECT MANAGEMENT INSTITUTE. Project Management Body of Knowledge. 4.
-ed. Pennsylvania: Project Management Institute. Inc, 2008.
-
-PROJECT MANAGEMENT INSTITUTE. PM Today. Pennsylvania: Project
-Management Institute. Inc, April, 2009-a.
-
-PROJECT MANAGEMENT INSTITUTE. About Us. Apresenta informações sobre o
-PMI. Disponível em http://www.pmi.org/AboutUs/Pages/Default.aspx. Acesso em 12
-fev. 2010.
-
-PROJECT MANAGEMENT INSTITUTE. PMI Chapters. Apresenta informações
-sobre o Chapters brasileiros. Disponível em
-http://www.pmi.org/GetInvolved/Pages/PMI-Chapters.aspx. Acesso em 12 mar.
-2010-a
-
-PMI. Um guia do conhecimento em Gerenciamento de Projetos (Guia PMBOK). EUA:
-Project Management Institute, 2013.
-
-_____. PMSURVEY.ORG 2014 Edition: relatório personalizado. 2014a. O relatório foi
-personalizado utilizando-se ‘nível = país’ e ‘região = Americas – South America – Brazil’.
-Disponível em: <www.pmsurvey.org>. Acesso em: 09 set. 2015.
-
-_____. PMSURVEY.ORG 2014 Edition: relatório personalizado. 2014b. O relatório foi
-personalizado utilizando-se ‘nível = país’ e ‘região = Americas – South America – Brazil’ em conjunto com o filtro 1 onde foi selecionada a pergunta ‘1 – qual o principal setor de atuação de sua organização?’ e as respostas ‘Governo Administração Direta’ e ‘Governo Administração Indireta’. Disponível em: <www.pmsurvey.org>. Acesso em: 09 set. 2015.
-
-_____. Pulse of the profession: capitando o valor do gerenciamento de projetos. PMI, 2015. Disponível em: <http://www.pmi.org/learning/pulse.aspx>. Acesso em: 11 set. 2015.
-
-PRADO, D. Fundamentos do Modelo Prado-MMGP. Disponível em:
-<http://www.maturityresearch.com/novosite/biblio/fundamentos-modelo-prado-mmgp.pdf>.
-Acesso em: 14 set. 2015.
-
-PRADO, D.; ANDRADE, C. E. Pesquisa de maturidade em gerenciamento de projetos de
-Archibald & Prado: relatório 2014. Governo: Administração Direta e Indireta. Parte A:
-indicadores. 2015a. Disponível em:
-<http://www.maturityresearch.com/novosite/2014/download/2-
-Governo/RelatorioMaturidade2014-Governo-Parte-A-Indicadores.pdf>. Acesso em: 20 ago.
-2015.
-
-PRADO, D. S.; ARCHIBALD, R. D. Gerenciamento de projetos para executivos: inclui
-portfólios e programas. Nova Lima: INDG Tecnologia e Serviços, 2004.
-
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
+
+David Silva et al. / Procedia Technology 16 ( 2014 ) 1027 – 1036
+
+The maturity models had their origin in Total Quality Management (TQM) area. On this philosophy the
+strategy is driven in a continuous improvement perspective, being necessary a thorough understanding of
+organization’s current position and where it aims to be in the future. The first maturity model was developed in the
+United States of America, more specifically in Software Engineering Institute (SEI) at Carnegie Mellon
+University, to be used for software development. It resulted in the publication of the Capability Maturity Model
+(CMM), in 1991, with a classification in 5 maturity levels (Initial, Repeatable, Definition, Management and
+Optimization). Due to its success in the area of Software Engineering, CMM was applied in other areas [9]. After
+that, the model has evolved to a more comprehensive one, called CMMI (Capability Maturity Model Integration),
+which can be applied to enterprises of any sector, not being restricted only to IT (Information Technology)
+organizations [10]. Even more recently, the model has evolved to the CMMI for Development, specific to
+development systems (products, hardware, or software) [11]. The successful application of CMM inspired the
+experts from PM area for the research and development of the maturity evaluation models in PM [12].
+
+
+[10] \cite{berssaneti2012impact}
+F.T. Berssaneti, M.M. Carvalho, A.R.N. Muscat
+Impact of project management reference and project management maturity models on performance: an exploratory study in information technology projects
+Produção, 22 (2012), p. 404
+
+[11] junior2010maturidade
+A.S. Jucá, E.C. Conforto, D.C. Amaral
+Maturidade em gestão de projetos em pequenas empresas desenvolvedoras de software do Polo de Alta Tecnologia de São Carlos.Gestão & Produção, 17 (2010), pp. 181–194
+
+[12] lianying2012project
+L.Y. Zhang, J. He, X.X. Zhang
+The Project Management Maturity Model and Application Based on PRINCE2
+2012 International Workshop on Information and Electronics Engineering, 29 (2012), pp. 3691–3697
+
+[13] bouer2005metodologia
+R. Bouer, M.M. Carvalho
+Metodologia singular de gestão de projetos: condição suficiente para a maturidade em gestão de projetos?
+Produção, 15 (2005), pp. 347–361
+
+[16] pmiopm2013
+Project Management Institute. Organizational Project Management Maturity Model (OPM3) - Third Edition. In:Knowledge Foundation, ed. Pensylvania - USA: Project Management Institute, Inc., 2013.
+
+[17] fahrenkrog2003project
+S. Fahrenkrog, P. Wesman, A. Lewandowski, T. Keuten
+Project Management Institute's Organizational Project Management Maturity Model (OPM3)
+Proceedings of PMI North American Congress, Baltimore, MD (2003)
