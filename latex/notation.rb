@@ -3,19 +3,28 @@ SEMPRE CONSIDERAR
 - Verificar corte de palavras!
 
 REFAZER
-- introdução: Citar Patah & Carvalho 2012!
+- introdução:
+ - Citar Patah & Carvalho 2012!
+ - importancia GP
+ - importancia PMO
+ - Citar envolvimento em P\&D e/ou PD\&I
+ - importancia da GP na P\&D
+ - utilização de modelos de maturidade
+ - importancia do(s) modelo(s) de maturidade escolhido(s)
+  - OPM3
+  - MMPG?
+  - BRASPORT
 - Objetivos: não ficaram claros
 - Justificativa: citar apendice (Análise bibliográfica)
 - Cronograma:
 - Metodologia:
  - Demonstrar Modelo a ser seguido no projeto
 (Modelo de Excelência Operacional EMBRAPII)
-  - Como será feito o mapeamento
-
+  - Como será feito o mapeamento?
 METODOLOGIA
 - referencial bibliografico
- - CMMI ???
- - ISO 16290:2013 1 .
+ - CMMI => apenas revisão bibliogŕafica
+ - ISO 16290:2013- não procurar por enquanto
 ESTUDO DE CASO
  - PICG
  - EMBRAPII
@@ -24,7 +33,26 @@ ESTUDO DE CASO
  - Comparação Modelo embrapii vs. CMMI
 
 ANOTAÇÕES:
-- Comparar outros modelos encontrados na literatura?
+- Procurar modelos especificos para PMO
+ - pesquisar modelo descrito por BRASPORT (editora, com livro em pré-lançamento)
+- Comparar outros modelos encontrados na literatura
+- Procurar artigos mais citados que utilizam OPM3
+ - de preferência internacional
+- fazer analise bibliométrica dos modelos mais utilizados
+
+EMBRAPII
+- modelo em manual se refere a maturidade do produto apenas
+- modelo de EOE está sendo refeito, não utiliza nenhum modelo como base
+-> Separar conceitos escritos no capitulo de modelo
+
+*Email de Simone:
+ - pedir novo modelo em desenvolvimento EMBRAPII
+ - lembrar de pedir contato de OPM3
+ - verificar datas para reunião
+
+*Duvidas:
+ - PMO ou EGP?
+ - gestão ou gerenciamento?
 
 --------------------------------------------------------------------------------
 
@@ -34,18 +62,7 @@ ANOTAÇÕES:
 
 David Silva et al. / Procedia Technology 16 ( 2014 ) 1027 – 1036
 
-The maturity models had their origin in Total Quality Management (TQM) area. On this philosophy the
-strategy is driven in a continuous improvement perspective, being necessary a thorough understanding of
-organization’s current position and where it aims to be in the future. The first maturity model was developed in the
-United States of America, more specifically in Software Engineering Institute (SEI) at Carnegie Mellon
-University, to be used for software development. It resulted in the publication of the Capability Maturity Model
-(CMM), in 1991, with a classification in 5 maturity levels (Initial, Repeatable, Definition, Management and
-Optimization). Due to its success in the area of Software Engineering, CMM was applied in other areas [9]. After
-that, the model has evolved to a more comprehensive one, called CMMI (Capability Maturity Model Integration),
-which can be applied to enterprises of any sector, not being restricted only to IT (Information Technology)
-organizations [10]. Even more recently, the model has evolved to the CMMI for Development, specific to
-development systems (products, hardware, or software) [11]. The successful application of CMM inspired the
-experts from PM area for the research and development of the maturity evaluation models in PM [12].
+The maturity models had their origin in Total Quality Management (TQM) area. On this philosophy the strategy is driven in a continuous improvement perspective, being necessary a thorough understanding of organization’s current position and where it aims to be in the future. The first maturity model was developed in the United States of America, more specifically in Software Engineering Institute (SEI) at Carnegie Mellon University, to be used for software development. It resulted in the publication of the Capability Maturity Model (CMM), in 1991, with a classification in 5 maturity levels (Initial, Repeatable, Definition, Management and Optimization). Due to its success in the area of Software Engineering, CMM was applied in other areas [9]. After that, the model has evolved to a more comprehensive one, called CMMI (Capability Maturity Model Integration), which can be applied to enterprises of any sector, not being restricted only to IT (Information Technology) organizations [10]. Even more recently, the model has evolved to the CMMI for Development, specific to development systems (products, hardware, or software) [11]. The successful application of CMM inspired the experts from PM area for the research and development of the maturity evaluation models in PM [12].
 
 
 [10] \cite{berssaneti2012impact}
@@ -72,5 +89,5 @@ Project Management Institute. Organizational Project Management Maturity Model (
 
 [17] fahrenkrog2003project
 S. Fahrenkrog, P. Wesman, A. Lewandowski, T. Keuten
-Project Management Institute's Organizational Project Management Maturity Model (OPM3)
+Project Management Institutes Organizational Project Management Maturity Model (OPM3)
 Proceedings of PMI North American Congress, Baltimore, MD (2003)
