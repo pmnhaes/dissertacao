@@ -1,36 +1,36 @@
 SEMPRE CONSIDERAR
-- Verificar/Melhorar Redação
-- Verificar corte de palavras!
+  - Verificar/Melhorar Redação
+  - Verificar corte de palavras!
 
 REFAZER
-- introdução:
- - Citar Patah & Carvalho 2012!
- - importancia GP
- - importancia PMO
- - Citar envolvimento em P\&D e/ou PD\&I
- - importancia da GP na P\&D
- - utilização de modelos de maturidade
- - importancia do(s) modelo(s) de maturidade escolhido(s)
-  - OPM3
-  - MMPG?
-  - BRASPORT
-- Objetivos: não ficaram claros
-- Justificativa: citar apendice (Análise bibliográfica)
-- Cronograma:
-- Metodologia:
- - Demonstrar Modelo a ser seguido no projeto
-(Modelo de Excelência Operacional EMBRAPII)
-  - Como será feito o mapeamento?
-METODOLOGIA
-- referencial bibliografico
- - CMMI => apenas revisão bibliogŕafica
- - ISO 16290:2013- não procurar por enquanto
-ESTUDO DE CASO
- - PICG
- - EMBRAPII
- - IFF
- - Modelo EMBRAPII
- - Comparação Modelo embrapii vs. CMMI
+  - introdução:
+   - Citar Patah & Carvalho 2012!
+   - importancia GP
+   - importancia PMO
+   - Citar envolvimento em P\&D e/ou PD\&I
+   - importancia da GP na P\&D
+   - utilização de modelos de maturidade
+   - importancia do(s) modelo(s) de maturidade escolhido(s)
+    - OPM3
+    - MMPG?
+    - BRASPORT
+  - Objetivos: não ficaram claros
+  - Justificativa: citar apendice (Análise bibliográfica)
+  - Cronograma:
+  - Metodologia:
+   - Demonstrar Modelo a ser seguido no projeto
+  (Modelo de Excelência Operacional EMBRAPII)
+    - Como será feito o mapeamento?
+  METODOLOGIA
+  - referencial bibliografico
+   - CMMI => apenas revisão bibliogŕafica
+   - ISO 16290:2013- não procurar por enquanto
+  ESTUDO DE CASO
+   - PICG
+   - EMBRAPII
+   - IFF
+   - Modelo EMBRAPII
+   - Comparação Modelo embrapii vs. CMMI
 
 ANOTAÇÕES:
 - Procurar modelos especificos para PMO
@@ -40,10 +40,19 @@ ANOTAÇÕES:
  - de preferência internacional
 - fazer analise bibliométrica dos modelos mais utilizados
 
+- Busca:
+ - ScienceDirect:
+  - Project Management Office Maturity
+  - journals
+  - Engineering
+  - 2006 to 2016
+  - aborda base scopus
+  * project management maturity & pmo
+
 EMBRAPII
-- modelo em manual se refere a maturidade do produto apenas
-- modelo de EOE está sendo refeito, não utiliza nenhum modelo como base
--> Separar conceitos escritos no capitulo de modelo
+  - modelo em manual se refere a maturidade do produto apenas
+  - modelo de EOE está sendo refeito, não utiliza nenhum modelo como base
+  -> Separar conceitos escritos no capitulo de modelo
 
 *Email de Simone:
  - pedir novo modelo em desenvolvimento EMBRAPII
