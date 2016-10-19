@@ -1,0 +1,100 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Journal Article
+% LaTeX Template
+% Version 1.4 (15/5/16)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Frits Wenneker (http://www.howtotex.com) with extensive modifications by
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \documentclass[twoside,twocolumn]{article}
+
+\documentclass[
+10pt, % Main document font size
+a4paper, % Paper type, use 'letterpaper' for US Letter paper
+oneside, % One page layout (no page indentation)
+%twoside, % Two page layout (page indentation for binding and different headers)
+headinclude,footinclude, % Extra spacing for the header and footer
+BCOR5mm, % Binding correction
+]{scrartcl}
+
+\usepackage[brazilian]{babel} % Nomes e datas português com estilo brasileiro
+\usepackage{hyperref} % cria hyperlink
+\hypersetup{
+  colorlinks=true, % false: caixa; true: apenas colore
+  linkcolor=black, % cor do link
+  citecolor=black, % cor dos link em bibliografia
+  urlcolor=blue
+}
+% \usepackage[latin1]{inputenc} % Windows
+\usepackage[utf8]{inputenc} % Suporte à caracteres especiais (acentos e cedilha)
+\usepackage[T1]{fontenc}
+\usepackage[alf]{abntcite}
+\usepackage{pslatex} % Times New Roman
+\usepackage{graphicx} % Permite a utilização de imagens no documento
+\usepackage[table,xcdraw]{xcolor}
+
+%----------------------------------------------------------------------------------------
+% TITLE AND AUTHOR(S)
+%----------------------------------------------------------------------------------------
+
+\title{Escritório de projetos como meio para maturidade} % The article title
+
+\author{\small{Rogério Atem Carvalho\textsuperscript{1} \& Simone Vasconcelos Silva\textsuperscript{2} \& Priscila Manhães da Silva\textsuperscript{3} }}
+
+\date{} % An optional date to appear under the author(s)
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+\maketitle % TITULO/AUTOR/DATA
+
+%----------------------------------------------------------------------------------------
+% ABSTRACT
+%----------------------------------------------------------------------------------------
+
+\section*{Abstract}
+
+\noindent % ABSTRACT
+
+
+\section*{Resumo}
+
+\noindent % ABSTRACT
+
+%----------------------------------------------------------------------------------------
+% AUTHOR AFFILIATIONS
+%----------------------------------------------------------------------------------------
+
+{\let\thefootnote\relax\footnotetext{\textsuperscript{1} \textit{Doutor em Ciência de Engenharias pela Universidade Estadual do Norte Fluminense Darcy Ribeiro - UENF, Brasil}}}
+{\let\thefootnote\relax\footnotetext{\textsuperscript{2} \textit{Doutora em Computação pela Universidade Federal Fluminense - UFF, Brasil}}}
+{\let\thefootnote\relax\footnotetext{\textsuperscript{3} \textit{Mestranda em Engenharia de Produção pela Universidade Estadual do Norte Fluminense Darcy Ribeiro - UENF/LEPROD, Brasil}}}
+
+\section{Gestão de Projetos}
+\section{Escritórios de Gestão de Projetos}
+\section{Maturidade}
+\section{Maturidade em Gestão de Projetos}
+\section{Maturidade em Escritório de Gestão de Projetos}
+\section{Comparação modelos}
+\section{Methods}
+\section{Methods}
+
+\section{Discussão e Conclusões}
+
+
+%----------------------------------------------------------------------------------------
+% BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+% \renewcommand{\ABNTbibliographyname}{REFERÊNCIAS BIBLIOGRÁFICAS}
+\citeoption{abnt-repeated-author-omit=yes}
+\bibliographystyle{abnt-alf}
+\bibliography{referencia}
+%----------------------------------------------------------------------------------------
+\end{document}
